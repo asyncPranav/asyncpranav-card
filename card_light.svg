@@ -1,0 +1,83 @@
+<svg width="1000" height="570" viewBox="0 0 1000 570" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: 'Cascadia Code','Fira Code','JetBrains Mono',Consolas,ui-monospace,monospace; }
+    .user { fill: #24292F; font-size: 14px; }
+    .head { fill: #1F2937; font-size: 14px; }
+    .cc { fill: #57606A; font-size: 14px; }
+    .key { fill: #B7791F; font-size: 14px; }
+    .value { fill: #24292F; font-size: 14px; }
+    .green { fill: #1A7F37; font-size: 14px; }
+    .red { fill: #CF222E; font-size: 14px; }
+    .footer { fill: #6E7781; font-size: 10.5px; }
+  </style>
+
+  <rect x="0" y="0" width="1000" height="570" fill="#FFFFFF"/>
+
+  <!-- left: ascii art (user-provided) -->
+  <foreignObject x="16" y="10" width="430" height="500">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="white-space:pre; font-family:'Cascadia Code','Fira Code','JetBrains Mono',Consolas,ui-monospace,monospace; font-size:11.3px; line-height:1.28; color:#202020; margin:0;">
+
+                                .
+                          .            .
+                       ..              ..
+                   .    .              ....
+                  .          .           . .
+                 .                 ..    .
+                 .           .....  .:::.   .
+                  ..    ...  -++++-::+*+:.  .
+                    ..    . -*%@@#@%%***+-  .
+                .  :+=::=++%@@######@%%%@=. .
+                .  =%*+*%@##@@@@%**+----+@- .
+                . .+-:... .:-+*+:  .::--=%+ .
+                 .:**++-:..:=*%*=--::-++%#=::
+                  :*%==-.:-=%@@%%*++:-+*%#*--
+                  -=@%**++*%%@@@%%@@@@@@@@%==
+                  =+@@@@@@@%%@@@@%%@###@@#*++
+                  :*%@#@%*%@#####@@**%@@@@=-.
+                   =*%%*++%*+*%*==%@***%*=:.
+                   :-=+=:::...:.  .--=**-..
+                   .-.-:  ....:::...  =-
+                    -:...+*%%%%%@%%%+.:.
+                     -...+**=:::-+**+..
+                      .. .-+=.  .--:   ..
+                     .:=:  ...  ..    .+%*%****+:
+                 .=*@@*=++.         .=*%@#@%*=+##@:
+               -@##@*+:-+%%+=:....:=+*%%@%*+:-=####*.
+            :-*##@%*=.-=++***++==++**%@@@@%*%%@##%###=:.
+         :*#######@@%+==++**+++++**%%%%%%%#######@%@#####%+-
+      =@@#############@=:=+******%**%**%@#########@@@#######
+   -%##@@#@#############*=*%%**++****@###################@%%
+ =*%##**@%@####@#########+=***+=+-=%#################@##@@%%
+=%%+*%*@%*#@###@@@########======-=################@#@%##@%*%
+</div>
+  </foreignObject>
+
+  <!-- right: neofetch info dump -->
+  <text x="430" y="30"><tspan class="user">guest@asyncPranav</tspan><tspan class="cc"> ------------------------------------------------------------</tspan></text>
+  <text x="430" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">Windows 11</tspan></text>
+  <text x="430" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">: .................... </tspan><tspan id="age_data" class="value">4y 3m 21d</tspan></text>
+  <text x="430" y="90"><tspan class="cc">. </tspan><tspan class="key">Editor</tspan><tspan class="cc">: .................... </tspan><tspan class="value">Neovim, VSCode</tspan></text>
+  <text x="430" y="110"><tspan class="cc">. </tspan><tspan class="key">Shell</tspan><tspan class="cc">: ..................... </tspan><tspan class="value">Zsh</tspan></text>
+
+  <text x="430" y="150"><tspan class="head">- Tech Stack</tspan><tspan class="cc"> -----------------------------------------------------------</tspan></text>
+  <text x="430" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">: ................. </tspan><tspan class="value">C, Java, JavaScript</tspan></text>
+  <text x="430" y="190"><tspan class="cc">. </tspan><tspan class="key">Frontend</tspan><tspan class="cc">: .................. </tspan><tspan class="value">React, Tailwind CSS</tspan></text>
+  <text x="430" y="210"><tspan class="cc">. </tspan><tspan class="key">Backend</tspan><tspan class="cc">: ................... </tspan><tspan class="value">Node.js, Express.js</tspan></text>
+  <text x="430" y="230"><tspan class="cc">. </tspan><tspan class="key">Database</tspan><tspan class="cc">: .................. </tspan><tspan class="value">MongoDB</tspan></text>
+  <text x="430" y="250"><tspan class="cc">. </tspan><tspan class="key">Tools &amp; Environment</tspan><tspan class="cc">: ....... </tspan><tspan class="value">Git, Neovim, Postman</tspan></text>
+
+  <text x="430" y="290"><tspan class="head">- Contact</tspan><tspan class="cc"> ---------------------------------------------------------------</tspan></text>
+  <text x="430" y="310"><tspan class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc">: ..................... </tspan><tspan class="value">asyncpranav@gmail.com</tspan></text>
+  <text x="430" y="370"><tspan class="cc">. </tspan><tspan class="key">X</tspan><tspan class="cc">: ......................... </tspan><tspan class="value">x.com/asyncPranav</tspan></text>
+  <text x="430" y="330"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc">: .................... </tspan><tspan class="value">github.com/asyncPranav</tspan></text>
+  <text x="430" y="350"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: .................. </tspan><tspan class="value">linkedin.com/in/asyncpranav</tspan></text>
+
+  <text x="430" y="410"><tspan class="head">- GitHub Stats</tspan><tspan class="cc"> --------------------------------------------------------</tspan></text>
+  <text x="430" y="430"><tspan class="cc">. </tspan><tspan class="key">Profile Views</tspan><tspan class="cc">: ............. </tspan><tspan id="views_data" class="value">2,093</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan><tspan class="cc">: </tspan><tspan id="follower_data" class="value">10</tspan></text>
+  <text x="430" y="450"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="cc">: ..................... </tspan><tspan id="repo_data" class="value">41</tspan><tspan class="cc"> {Contributed: </tspan><tspan id="contrib_data" class="value">41</tspan><tspan class="cc">} | </tspan><tspan class="key">Stars</tspan><tspan class="cc">: </tspan><tspan id="star_data" class="value">14</tspan></text>
+  <text x="430" y="470"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="cc">: ................... </tspan><tspan id="commit_data" class="value">1,018 (2026)</tspan><tspan class="cc"> | </tspan><tspan class="key">Streak</tspan><tspan class="cc">: </tspan><tspan id="streak_current" class="value">2d</tspan><tspan class="cc"> (best </tspan><tspan id="streak_longest" class="value">17d</tspan><tspan class="cc">)</tspan></text>
+  <text x="430" y="490"><tspan class="cc">. </tspan><tspan class="key">Pull Requests</tspan><tspan class="cc">: ............. </tspan><tspan id="pr_data" class="value">1</tspan><tspan class="cc"> | </tspan><tspan class="key">Issues</tspan><tspan class="cc">: </tspan><tspan id="issue_data" class="value">0</tspan></text>
+  <text x="430" y="510"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan><tspan class="cc">: ............. </tspan><tspan id="loc_data" class="value">1,570,312</tspan><tspan class="cc"> ( </tspan><tspan class="green">+1,716,176</tspan><tspan class="cc">, </tspan><tspan class="red">-145,864</tspan><tspan class="cc"> )</tspan></text>
+
+  <text x="16" y="555" class="footer">last synced 2026-07-23 04:12 UTC &#183; </text>
+</svg>
