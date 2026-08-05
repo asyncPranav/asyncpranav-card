@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "profileViews": 2126,
-    "profileViewsSyncedAt": "2026-08-05T14:19:49.712Z"
+    "profileViews": 2129,
+    "profileViewsSyncedAt": "2026-08-05T19:41:46.046Z"
   },
   "asyncPranav/Food-website": {
     "commitTotal": 5,
@@ -44,9 +44,9 @@
     "deletions": 372
   },
   "asyncPranav/Obsidian": {
-    "commitTotal": 1783,
-    "additions": 197387,
-    "deletions": 22116
+    "commitTotal": 1789,
+    "additions": 201785,
+    "deletions": 23793
   },
   "asyncPranav/DSA-Java": {
     "commitTotal": 94,
@@ -199,12 +199,12 @@
     "deletions": 2
   },
   "asyncPranav/profile-card": {
-    "commitTotal": 61,
+    "commitTotal": 62,
     "additions": 836,
     "deletions": 4
   },
   "asyncPranav/asyncpranav-card": {
-    "commitTotal": 56,
+    "commitTotal": 57,
     "additions": 881,
     "deletions": 0
   },
